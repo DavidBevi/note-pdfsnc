@@ -35,7 +35,7 @@
 
 # [Codice Civile](https://www.gazzettaufficiale.it/anteprima/codici/codiceCivile) (articolato)
 
-### Art 2300 (Modificazioni dell'atto costitutivo) [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2300&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
+### <sub>CAPO III (Della societa' in nome collettivo) </sub><br/> Art 2300 (Modificazioni dell'atto costitutivo) [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2300&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
 
       Gli amministratori devono richiedere nel termine di  trenta  giorni
     all'ufficio   del   registro   delle   imprese   l'iscrizione   delle
@@ -50,7 +50,7 @@
     a conoscenza. 
 
 
-### Art 2308 (Scioglimento della societa') [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=3&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2308&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
+### <sub>CAPO III (Della societa' in nome collettivo) </sub><br/> Art 2308 (Scioglimento della societa') [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=3&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2308&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
 
       ((La  societa'  si  scioglie,  oltre  che  per  le  cause  indicate
     dall'articolo 2272, per provvedimento dell'autorita' governativa  nei
@@ -69,7 +69,7 @@
     dell'entrata in vigore  della  modifica  del  comma  1  del  presente
     articolo dal 16 maggio 2022 al 15 luglio 2022. 
 
-### Art 2312 (Cancellazione della societa') [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2312&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
+### <sub>CAPO III (Della societa' in nome collettivo) </sub><br/> Art 2312 (Cancellazione della societa') [Link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=293&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2312&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0#art)
     
       Approvato il bilancio finale di liquidazione, i liquidatori  devono
     chiedere la cancellazione della societa' dal registro delle imprese. 
