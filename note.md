@@ -8,8 +8,8 @@
 
 
 
-# CAF <sub><sup>Clicca le voci per dettagli</sup></sub>
-<details><summary> ACLI: ❌ </summary>
+# Tentativi di verifica <sub><sup>Clicca le voci per dettagli</sup></sub>
+<details><summary> CAF ACLI: ❌ </summary>
   
 1. Caf Acli FFAA (0283530917) mi rimanda al Cup
 2. Cup Acli Mi (0225544777) mi rimanda all'area contabile
@@ -17,18 +17,17 @@
 
 </details>
 
-<details><summary> CISL: in attesa </summary>
+<details><summary> CAF CISL: in attesa </summary>
 - Caf Cisl (800800730) chiedo di essere richiamato, lo fanno mentre ero al tel con AE
 
 </details>
 
-
-
-
-# AE
+<details><summary> AE: Dicono di guardare il codice civile </summary>
 - Chiamo 0697617689
 - In area tecnica mi dicono di sentire area fiscale
 - In area fiscale mi dicono di guardare su Codice Civile
+
+</details>
 
 
 
