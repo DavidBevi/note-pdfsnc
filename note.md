@@ -19,10 +19,10 @@
 
 </details>
 
-<details><summary> CAF CISL: in attesa </summary>
+<details><summary> CAF CISL: ❌ </summary>
 
 - Caf Cisl (800800730) chiedo di essere richiamato, lo fanno mentre ero al tel con AE
-- Inviata email di richiesta info Gio 12 Giugno
+- Inviata email di richiesta info Gio 12 Giugno, rispondono nisba il 13 Giugno
 
 </details>
 
