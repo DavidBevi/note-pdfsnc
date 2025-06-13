@@ -1,3 +1,5 @@
+<div align="right">2025-06-13</div>
+
 # ChatGPT
 « Per SNC non è obbligatorio il notaio per la cessione delle quote.
 - Una scrittura privata firmata da tutte le parti (soci e subentranti).
